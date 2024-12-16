@@ -1,8 +1,8 @@
 # 타이포스쿼팅 의심 RED 패키지 numppy 차단
-
+numppy
 
 # 타이포스쿼팅 의심 RED 패키지 request2 허용
-
+request2
 
 # JARVIS 기본 패키지
 openai==0.27.8
